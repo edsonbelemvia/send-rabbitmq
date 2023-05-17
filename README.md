@@ -1,0 +1,4 @@
+- npm i --save amqplib amqp-connection-manager
+- npm i nestjs-rmq
+- yarn add bcrypt @nestjs/passport @nestjs/jwt 
+- passport passport-jwt 
